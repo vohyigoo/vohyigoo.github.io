@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<h3>{{title}}</h3>
+<p>{{desc}}</p>
+{% for ph in photo %}
+<p><img src="/static/images/{{ph}}" width="800"></p>
+{% endfor%}
+{% endblock %}

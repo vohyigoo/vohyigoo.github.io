@@ -1,0 +1,177 @@
+title: ""
+file: "index.html"
+template: "room.html"
+photo:
+  - facade.jpg
+  - town_1.jpg
+  - town_2.jpg
+desc: |
+  <p>
+  Продаю готовый к проживанию таунхаус. 140 кв. метров.<br>
+  </p>
+  <p>
+  Собственность на дом и землю оформлена.<br>
+  Договора со всеми коммунальщиками оформлены (мосэнергосбыт, птогх, газовщики).<br>
+  Отопление от газового котла Ferroli (примерно 3000 в месяц).<br>
+  </p>
+
+  <p>
+  Интернет есть.<br>
+  Почтовый адрес есть.<br>
+  Дорогу чистят.<br>
+  Мусор вывозят.<br>
+  Соседи приличные.<br>
+  Прописка городская.<br>
+  Я собственник.
+  </p>
+
+  <p>
+  Вся внутренняя отделка выполнена.<br>
+  Стены обшиты гипсокартоном, поклеен флизелин,<br>
+  покрашены латексной матовой краской (цвет кремовый).<br>
+  Потолки натяжные французские (сатин).<br>
+  На полу хороший ламинат.<br>
+  Два сан узла в кафеле до потолка с декором.<br>
+  Установлена сантехника.<br>
+  Лестница из лиственницы.
+  </p>
+
+  <p>
+  Требуется привести в порядок еще крыльцо, терассу и декорировать цоколь (в теплое время года).<br>
+  Объем работ небольшой, работы не срочные.<br>
+  На террасе и крыльце требуется заменить фанерный временный пол<br>
+  на желаемое покрытие (терассная доска или керамогранит), нужно сделать перила и ступеньки.<br>
+  Некоторые соседи, кроме того, стеклят и крыльцо и терассу.
+  </p>
+
+  <p>
+  Цена: 7 600 000 рублей <br>
+  E-mail: <a href="mailto:vohyigoo@gmail.com">vohyigoo@gmail.com</a>
+  </p>
+
+rooms:
+  - title: "Кабинет"
+    file: "1_work_room.html"
+    template: "room.html"
+    photo:
+      - DSC04018.JPG
+      - DSC04019.JPG
+      - DSC04020.JPG
+    desc: ""
+    floor: 1
+  - title: "Гостиная"
+    file: "1_living_room.html"
+    template: "room.html"
+    photo:
+      - DSC03973.JPG
+      - DSC03974.JPG
+      - DSC03975.JPG
+      - DSC03976.JPG
+    desc: ""
+    floor: 1
+  - title: "Кухня"
+    file: "1_kitchen.html"
+    template: "room.html"
+    photo:
+      - DSC04006.JPG
+      - DSC04007.JPG
+      - DSC04008.JPG
+      - DSC04009.JPG
+      - DSC04010.JPG
+      - DSC04011.JPG
+      - DSC04012.JPG
+    desc: ""
+    floor: 1
+  - title: "Гостевой санузел"
+    file: "1_bathroom.html"
+    template: "room.html"
+    photo: []
+    desc: ""
+    floor: 1
+  - title: "Холл"
+    file: "1_hall.html"
+    template: "room.html"
+    photo:
+      - DSC03977.JPG
+      - DSC03978.JPG
+      - DSC03979.JPG
+      - DSC03980.JPG
+      - DSC03981.JPG
+      - DSC04016.JPG
+      - DSC04017.JPG
+    desc: ""
+    floor: 1
+  - title: "Котельная"
+    file: "1_boiler_room.html"
+    template: "room.html"
+    photo:
+      - DSC04021.JPG
+      - DSC04022.JPG
+      - DSC04023.JPG
+    desc: ""
+    floor: 1
+  - title: "Кладовка"
+    file: "1_lumber_room.html"
+    template: "room.html"
+    photo:
+      - DSC04013.JPG
+      - DSC04014.JPG
+      - DSC04015.JPG
+    desc: ""
+    floor: 1
+  - title: "Холл"
+    file: "2_hall.html"
+    template: "room.html"
+    photo:
+      - DSC03982.JPG
+      - DSC03983.JPG
+      - DSC03984.JPG
+      - DSC03985.JPG
+      - DSC04001.JPG
+      - DSC04002.JPG
+      - DSC04003.JPG
+      - DSC04004.JPG
+      - DSC04005.JPG
+    desc: ""
+    floor: 2
+  - title: "Спальня #1"
+    file: "2_small_bedroom_river.html"
+    template: "room.html"
+    photo:
+      - DSC03988.JPG
+      - DSC03989.JPG
+      - DSC03990.JPG
+    desc: |
+      На фото видна ниша не законченная. <br>
+      Можно оформить как стеллаж под книги и прочую мелочевку или как шкаф-купе.
+    floor: 2
+  - title: "Спальня #2"
+    file: "2_large_bedroom_rever.html"
+    template: "room.html"
+    photo:
+      - DSC03986.JPG
+      - DSC03987.JPG
+    desc: ""
+    floor: 2
+  - title: "Спальня #3"
+    file: "2_bedroom_road.html"
+    template: "room.html"
+    photo:
+      - DSC03996.JPG
+      - DSC03997.JPG
+      - DSC03998.JPG
+      - DSC03999.JPG
+      - DSC04000.JPG
+    desc: ""
+    floor: 2
+  - title: "Санузел"
+    file: "2_bathroom.html"
+    template: "room.html"
+    photo:
+      - DSC03991.JPG
+      - DSC03992.JPG
+      - DSC03993.JPG
+      - DSC03994.JPG
+      - DSC03995.JPG
+    desc: ""
+    floor: 2
